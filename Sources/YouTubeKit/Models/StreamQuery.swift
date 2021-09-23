@@ -7,6 +7,7 @@
 
 import Foundation
 
+@available(tvOSApplicationExtension 15.0, *)
 @available(iOS 15.0, *)
 public extension Collection where Element == Stream {
     

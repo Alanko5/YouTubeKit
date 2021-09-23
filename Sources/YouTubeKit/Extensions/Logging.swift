@@ -8,6 +8,7 @@
 import Foundation
 import os.log
 
+@available(tvOSApplicationExtension 15.0, *)
 @available(iOS 10.0, *)
 extension OSLog {
     

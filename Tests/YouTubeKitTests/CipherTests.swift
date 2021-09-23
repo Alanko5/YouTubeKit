@@ -8,6 +8,7 @@
 import XCTest
 @testable import YouTubeKit
 
+@available(tvOSApplicationExtension 15.0, *)
 @available(iOS 15.0, *)
 final class CipherTests: XCTestCase {
     
